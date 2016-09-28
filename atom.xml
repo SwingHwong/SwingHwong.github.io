@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Sunny</title>
-  
+  <title>Sunny&#39;s Blog</title>
+  <subtitle>Keeping Moving</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2016-09-25T08:56:51.608Z</updated>
   <id>http://yoursite.com/</id>
-  
-  <author>
-    <name>John Doe</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
